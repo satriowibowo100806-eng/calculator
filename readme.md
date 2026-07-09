@@ -51,13 +51,13 @@ Or use **Live Server** in Visual Studio Code for a better development experience
 
 ## 📸 Preview
 
-<img width="350" alt="Calculator Preview" src="https://via.placeholder.com/350x650?text=Calculator+Preview">
+<img width="100" alt="Calculator Preview" src="calculator.jpg">
 
 > Replace the image above with a screenshot of your application.
 
 ## 🌐 Live Demo
 
-Coming Soon...
+https://satriowibowo100806-eng.github.io/calculator/
 
 ## 👨‍💻 Author
 
