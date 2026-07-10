@@ -51,7 +51,7 @@ Or use **Live Server** in Visual Studio Code for a better development experience
 
 ## 📸 Preview
 
-<img width="10" alt="Calculator Preview" src="calculator.jpg">
+<img width="310" alt="Calculator Preview" src="calculator.jpg">
 
 > Replace the image above with a screenshot of your application.
 
